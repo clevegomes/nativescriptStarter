@@ -1,0 +1,40 @@
+NAtive scripts 
+
+installing
+
+https://docs.nativescript.org/start/ns-setup-linux
+
+https://developer.android.com/studio/run/managing-avds.html
+
+commands
+$ tns run android
+tns doctor
+
+emulator -avd <avd_name>
+
+Starting the emulator
+ ./emulator -use-system-libs -avd Nexus_5X_API_23
+
+/home/cleve/Android/Sdk/emulator/./emulator -use-system-libs -avd Nexus_5X_API_23
+
+listing all emulators
+/home/cleve/Android/Sdk/tools/./android list avd
+
+export ANDROID_HOME=/home/cleve/Android/Sdk/
+
+
+
+Styles and color schemes
+http://docs.nativescript.org/angular/ui/theme#color-schemes
+
+UI Elements
+http://docs.nativescript.org/ui/components
+
+Animate
+https://docs.nativescript.org/ui/animation#examples
+
+
+https://github.com/NativeScript/sample-Groceries/tree/angular-end
+
+
+
