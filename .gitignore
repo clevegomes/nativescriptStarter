@@ -1,0 +1,7 @@
+#IDE configuration files
+.idea
+*.iml
+
+/node_modules/
+/platforms/
+/hooks/
